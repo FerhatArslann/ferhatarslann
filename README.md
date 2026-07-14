@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Ferhat
 
-I enjoy creating with code, whether it’s something practical or just an experiment to test an idea. 
-
-Many of my projects start small and grow as I refine them.
-
-I see programming both as a craft and as a way to solve real problems.
-
-Clean structure, scalability, and maintainability matter to me, even in hobby projects.
+I enjoy coding, whether it’s something practical or just an experiment to test an idea. 
+Many of my projects start small and grow as i continue developing them. 
+For me, it's very important to have a clean structure and maintainable code, even in hobby projects. 
+I see programming as a way to solve real problems.
 
 ---
 
@@ -20,25 +17,22 @@ See more of my work:
 ## 🛠️ Skills & Technologies
 
 - **Languages:**  
-  C#, Python, JavaScript, TypeScript, Kotlin  
+  C++, Python, TypeScript, JavaScript, HTML, CSS  
 
 - **Frontend:**  
-  React, Angular, Next.js  
+  React  
 
 - **Backend & APIs:**  
   Node.js, Express.js, REST APIs  
 
 - **Databases:**  
-  MySQL, MongoDB  
+  MySQL, MongoDB, PostgreSQL  
 
 - **Cloud & DevOps:**  
   Azure, GitHub Actions (CI/CD), Docker  
 
 - **Mobile Development:**  
   Android, React Native  
-
-- **Game Development:**  
-  Unity  
 
 - **Tools & Environments:**  
   Git, Bash, Linux, Visual Studio, Android Studio 
@@ -47,8 +41,8 @@ See more of my work:
 
 ## 📫 Connect  
 
-*More links coming soon.*
+🔗 [LinkedIn](https://www.linkedin.com/in/ferhat-arslan-19126425b/)
 
 ---
 
-⚡ *Thank you for visiting my profile! Feel free to connect or reach out for collaboration.*
+⚡ *Thank you for visiting my profile! Feel free to connect or reach out.*
